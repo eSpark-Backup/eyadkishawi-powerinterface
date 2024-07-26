@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : S:\eyadkishawi-powerinterface\Design Files\PowerBoard_7500-0430.PcbDoc
+Date         : 7/26/2024
+Time         : 3:36:07 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 42.96%
+    Connections, 405
+    Connections routed, 174
+    Connections remaining, 231
+count : 4
