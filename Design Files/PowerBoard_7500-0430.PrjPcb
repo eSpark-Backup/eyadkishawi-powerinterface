@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for PowerBoard_7500-0430
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -233,106 +233,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 7500-0430_PowerBoard_v1.0\Design Rule Check - PowerBoard_7500-0430.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.G1
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.G2
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\PCB_PowerBoard_7500-0430.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\Pick Place for PCB_PowerBoard_7500-0430.csv
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for PowerBoard_7500-0430\Pick Place for PCB_PowerBoard_7500-0430.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -380,7 +280,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for PowerBoard_7500-0430
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
