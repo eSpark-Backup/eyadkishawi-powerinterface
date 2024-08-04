@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\LiberDB\Documents\GitHub\eyadkishawi-powerinterface\Design Files\Project Outputs for PowerBoard_7500-0430\Pick Place for PCB_PowerBoard_7500-0430.txt
+C:\Users\MarsVirgo\Documents\GitHub\eyadkishawi-powerinterface\Design Files\Project Outputs for PowerBoard_7500-0430\Pick Place for PCB_PowerBoard_7500-0430.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       02/08/24
-Time:       20:58
-Revision:   Not in VersionControl
+Date:       04/08/24
+Time:       18:44
+Revision:   159f89c1ea3b7755540dcf7c96a119ab61aa8860
 Variant:    No variations
 Units used: mm
 
@@ -135,16 +135,16 @@ MH3        TopLayer 98,4250mm    34,9250mm    0        98,4250mm 34,9250mm 98,42
 MH4        TopLayer 98,4250mm    79,3750mm    0        98,4250mm 79,3750mm 98,4250mm 79,3750mm 
 MH5        TopLayer 6,2230mm     79,3750mm    0        28,5750mm 15,2400mm 6,2230mm  79,3750mm 
 Q1         TopLayer 88,9000mm    71,1200mm    90       88,9000mm 71,1200mm 86,9950mm 68,4200mm 
-Q2         TopLayer 88,1380mm    47,7520mm    0        88,1380mm 47,7520mm 87,1880mm 46,7520mm 
-Q3         TopLayer 69,0880mm    71,1200mm    90       69,0880mm 71,1200mm 67,1830mm 68,4200mm 
+Q2         TopLayer 88,1634mm    47,4218mm    270      88,1634mm 47,4218mm 87,1634mm 48,3718mm 
+Q3         TopLayer 69,0880mm    71,1200mm    270      69,0880mm 71,1200mm 70,9930mm 73,8200mm 
 Q4         TopLayer 65,2018mm    71,1366mm    90       65,7018mm 70,4166mm 64,7018mm 70,4166mm 
 Q5         TopLayer 10,0330mm    59,6900mm    180      10,0330mm 59,6900mm 12,7330mm 57,7850mm 
 Q6         TopLayer 17,8990mm    61,9086mm    90       18,3990mm 61,1886mm 17,3990mm 61,1886mm 
 Q7         TopLayer 40,9782mm    39,5820mm    90       41,4782mm 38,8620mm 40,4782mm 38,8620mm 
 Q8         TopLayer 17,8990mm    68,0300mm    90       18,3990mm 67,3100mm 17,3990mm 67,3100mm 
-R1         TopLayer 90,2970mm    66,6750mm    0        90,2970mm 66,6750mm 89,5350mm 66,6750mm 
-R2         TopLayer 68,4530mm    44,1960mm    0        68,4530mm 44,1960mm 67,6910mm 44,1960mm 
-R3         TopLayer 62,1284mm    43,5610mm    0        62,1284mm 43,5610mm 61,3664mm 43,5610mm 
+R1         TopLayer 90,2970mm    66,6750mm    180      90,2970mm 66,6750mm 90,7669mm 66,6750mm 
+R2         TopLayer 68,1228mm    44,1960mm    0        68,1228mm 44,1960mm 67,6529mm 44,1960mm 
+R3         TopLayer 62,1284mm    43,3578mm    0        62,1284mm 43,3578mm 61,6585mm 43,3578mm 
 R4         TopLayer 77,6478mm    37,0840mm    180      77,6478mm 37,0840mm 78,4098mm 37,0840mm 
 R5         TopLayer 75,0570mm    37,0840mm    0        75,0570mm 37,0840mm 74,2950mm 37,0840mm 
 R6         TopLayer 62,4586mm    40,2590mm    180      62,4586mm 40,2590mm 63,2206mm 40,2590mm 
@@ -152,7 +152,7 @@ R7         TopLayer 92,6592mm    47,8790mm    270      92,6592mm 47,8790mm 92,65
 R8         TopLayer 98,8314mm    47,8790mm    270      98,8314mm 47,8790mm 98,8314mm 51,1290mm 
 R10        TopLayer 2,9210mm     21,5059mm    180      2,9210mm  21,5059mm 3,9370mm  21,5059mm 
 R11        TopLayer 14,5034mm    22,8600mm    270      14,5034mm 22,8600mm 14,5034mm 23,8760mm 
-R12        TopLayer 86,9696mm    44,1706mm    270      86,9696mm 44,1706mm 86,9696mm 44,9326mm 
+R12        TopLayer 85,9282mm    47,4726mm    270      85,9282mm 47,4726mm 85,9282mm 48,2346mm 
 R13        TopLayer 64,4144mm    73,8124mm    0        64,4144mm 73,8124mm 63,6524mm 73,8124mm 
 R14        TopLayer 37,4650mm    46,3296mm    270      37,4650mm 46,3296mm 37,4650mm 47,0916mm 
 R15        TopLayer 64,5414mm    67,7164mm    180      64,5414mm 67,7164mm 65,3034mm 67,7164mm 
