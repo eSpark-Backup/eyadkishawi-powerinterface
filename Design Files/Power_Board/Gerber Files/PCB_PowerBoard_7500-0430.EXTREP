@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB_PowerBoard_7500-0430.GBR   8/4/2024  6:45:47 PM
+Gerber File Extension Report For: PCB_PowerBoard_7500-0430.GBR   8/13/2024  6:39:44 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,10 +16,20 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM1                Dimensions                              
 .GM2                Board_Outline                           
+.GM4                Mechanical 4                            
+.GM6                Mechanical 6                            
+.GM9                Fabrication                             
+.GM13               Mechanical 13                           
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.2                  Dielectric 2                            
+.3                  Dielectric 3                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
+.GM                 Profile                                 
 ------------------------------------------------------------------------------------------

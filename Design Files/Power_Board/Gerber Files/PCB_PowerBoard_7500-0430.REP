@@ -2,401 +2,92 @@
 FileName = PCB_PowerBoard_7500-0430.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board_Outline
-      File : PCB_PowerBoard_7500-0430.GM2
+Generating : Dielectric 3
+      File : PCB_PowerBoard_7500-0430.3
 
-    Adding Layer      : Board_Outline
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB_PowerBoard_7500-0430.GKO
-
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Dielectric 3
 
 
 Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB_PowerBoard_7500-0430.GBO
+Generating : Dielectric 2
+      File : PCB_PowerBoard_7500-0430.2
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Dielectric 2
 
 
 Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PCB_PowerBoard_7500-0430.GBP
+Generating : Dielectric 1
+      File : PCB_PowerBoard_7500-0430.1
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Dielectric 1
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : PCB_PowerBoard_7500-0430.GML
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D201
+    D202
+    D203
+    D205
+    D206
+    D207
+    D209
+    D210
+    D211
+    D212
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : PCB_PowerBoard_7500-0430.GBS
+Generating : Mechanical 13
+      File : PCB_PowerBoard_7500-0430.GM13
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_PowerBoard_7500-0430.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB_PowerBoard_7500-0430.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_PowerBoard_7500-0430.GTO
-
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
+*************************************************************
+
+*************************************************************
+Generating : Fabrication
+      File : PCB_PowerBoard_7500-0430.GM9
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
     D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
+    D138
+    D223
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : PCB_PowerBoard_7500-0430.GPT
+Generating : Mechanical 6
+      File : PCB_PowerBoard_7500-0430.GM6
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 6
 
 
 Used DCodes :
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PCB_PowerBoard_7500-0430.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB_PowerBoard_7500-0430.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
+    D10
     D14
-    D134
-    D135
-    D136
-    D137
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-    D215
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : PCB_PowerBoard_7500-0430.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D203
-    D204
-    D205
-    D209
-    D213
-    D215
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : PCB_PowerBoard_7500-0430.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D133
-    D134
-    D136
-    D203
-    D204
-    D205
-    D209
-    D213
-    D215
     D216
-    D217
+    D219
+    D222
 *************************************************************
 
 *************************************************************
@@ -534,8 +225,436 @@ Used DCodes :
     D211
     D212
     D213
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : PCB_PowerBoard_7500-0430.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D10
+    D12
+    D14
+    D15
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_PowerBoard_7500-0430.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_PowerBoard_7500-0430.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D135
+    D136
+    D137
+    D138
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_PowerBoard_7500-0430.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_PowerBoard_7500-0430.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_PowerBoard_7500-0430.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_PowerBoard_7500-0430.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board_Outline
+      File : PCB_PowerBoard_7500-0430.GM2
+
+    Adding Layer      : Board_Outline
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : PCB_PowerBoard_7500-0430.GM1
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : PCB_PowerBoard_7500-0430.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D201
+    D202
+    D203
+    D207
+    D213
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : PCB_PowerBoard_7500-0430.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D133
+    D136
+    D137
+    D201
+    D202
+    D203
+    D207
+    D211
+    D213
     D214
     D215
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_PowerBoard_7500-0430.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_PowerBoard_7500-0430.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_PowerBoard_7500-0430.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_PowerBoard_7500-0430.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -549,9 +668,9 @@ Generating : Drill Drawing
 
 Used DCodes :
     D14
-    D137
-    D218
-    D219
+    D138
+    D224
+    D225
 *************************************************************
 
 *************************************************************
@@ -564,6 +683,15 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D218
+    D224
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB_PowerBoard_7500-0430.GM
+
+
+Used DCodes :
+    D226
 *************************************************************
 
